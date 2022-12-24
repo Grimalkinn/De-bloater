@@ -1,1 +1,1 @@
-# Demo
+# Debloating script for android
