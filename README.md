@@ -1,10 +1,17 @@
 # Debloating script for android
 
-## usage:
-'''shell
-$ chmod +x debloat.py
-'''
-$ ./debloat.py
-'''
-
 type help for help menu
+
+## usage:
+
+```shell
+$ git clone https://github.com/Grimalkinn/De-bloater.git
+```
+
+```shell
+$ chmod +x debloat.py
+```
+
+```shell
+$ ./debloat.py
+```
