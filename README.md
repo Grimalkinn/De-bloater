@@ -1,7 +1,7 @@
 # Debloating script for android
 
 ## usage:
-'''bash
+'''shell
 $ chmod +x debloat.py
 '''
 $ ./debloat.py
