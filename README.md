@@ -1,17 +1,21 @@
 # Debloating script for android
 
-type help for help menu
+This script is only developed to run on linux systems on android devices. 
+Feel free to tweak to your liking.
 
-## usage:
+Type help for help menu ;)
 
+# setup and run
+
+clone repo
 ```shell
-$ git clone https://github.com/Grimalkinn/De-bloater.git
+git clone https://github.com/Grimalkinn/De-bloater.git
 ```
-
+Make script executable
 ```shell
-$ chmod +x debloat.py
+cd De-bloater && chmod +x debloat.py
 ```
-
+Run script
 ```shell
-$ ./debloat.py
+./debloat.py
 ```
