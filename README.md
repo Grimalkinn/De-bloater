@@ -1,6 +1,6 @@
 # Debloating script for android
 
-This script is only developed to run on linux systems on android devices. 
+Note: This script is only developed to run on Unix systems for android devices. 
 Feel free to tweak to your liking.
 
 Type help for help menu ;)
